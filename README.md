@@ -6,4 +6,4 @@ seconds and writes its name and the store paths of its catalog inputs.
 
 | package | build time | catalog inputs |
 |---|---|---|
-| `spoxfr` | 7 s | `icfs` |
+| `spoxfr` | 7 s | `flox`, `icfs` |
